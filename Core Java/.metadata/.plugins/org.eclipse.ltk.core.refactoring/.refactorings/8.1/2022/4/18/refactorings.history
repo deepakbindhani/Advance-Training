@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 2 elements to &apos;Problem-Statement 8.1/src&apos;&#x0D;&#x0A;- Original project: &apos;8.1&apos;&#x0D;&#x0A;- Destination element: &apos;Problem-Statement 8.1/src&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     ThreadCounter.java&#x0D;&#x0A;     storage.java" description="Copy compilation units" destination="=Problem-Statement 8.1/src" element1="/src&lt;{ThreadCounter.java" element2="/src&lt;{storage.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1651137949727" units="2" version="1.0"/>
+</session>
