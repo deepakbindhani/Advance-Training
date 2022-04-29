@@ -20,6 +20,7 @@
 		<item key="WizardProjectsImportPage.STORE_CLOSE_CREATED_PROJECTS_ID" value="false"/>
 		<item key="WizardProjectsImportPage.STORE_HIDE_CONFLICTING_PROJECTS_ID" value="false"/>
 		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="D:\New folder\corejava_assignments"/>
 			<item value="D:\New folder\ProblemStatements5.3"/>
 			<item value="D:\New folder\Advance-Training\16-03-2022"/>
 			<item value="D:\New folder\Advance-Training\16-03-2022\3.1"/>
